@@ -7,9 +7,9 @@ This script generates a Bitcoin private key and corresponding address using Open
 - A base58 encoder command
 
 ## Usage
-1. Clone the repository or download the script `btc_address_generator.sh`.
-2. Make the script executable: `chmod +x btc_address_generator.sh`.
-3. Run the script: `./btc_address_generator.sh`.
+1. Clone the repository or download the script `create.sh`.
+2. Make the script executable: `chmod +x create.sh`.
+3. Run the script: `./create.sh`.
 4. Follow the on-screen prompts.
 
 ## Warnings
